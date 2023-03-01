@@ -1,4 +1,4 @@
-# gml
+# GML software
 Desarrollo para prueba tecnica en GML
 
 # Actividad
